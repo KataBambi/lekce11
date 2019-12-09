@@ -10,7 +10,7 @@ Píšu něco o sobě a o svém webu.
 
 ## Toto je nadpis.
 
-![Kacatko](https://www.google.com/search?q=k%C3%A1%C4%8D%C3%A1tko&sxsrf=ACYBGNR8If8kX5wbotfNFvO9iKAESBWqQA:1575915182511&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv6ZjFlanmAhVOPFAKHaehBSkQ_AUoAXoECBIQAw&biw=1366&bih=654#imgrc=j06Bi3aFgHL5MM:)
+![Pejsek](https://img.cz.prg.cmestatic.com/media/images/original/Nov2015/1804167.jpg?d41d)
 
 ```
 Tohle je kód
